@@ -8,4 +8,4 @@ if n != "DEV@2023" :
     if a == "eiichero oda" :
         print("Hello")
     else :
-       print("False")
+       print("invalid answer")
